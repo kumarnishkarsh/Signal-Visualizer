@@ -27,4 +27,4 @@ intuitive feel for how signals behave before studying them formally.
 - Matplotlib
 
 ## Sample Output
-! [Triangle Wave](sample_output.png)
+![Triangle Wave](sample_output.png)
