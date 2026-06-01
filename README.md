@@ -1,4 +1,4 @@
-# Signal Visualizer 
+<img width="1350" height="450" alt="image" src="https://github.com/user-attachments/assets/14299814-8362-48ce-9954-01556f2b0bdb" /># Signal Visualizer 
 
 A Python tool that generates and visualizes different types of signals — 
 built as a pre-college project before starting ECE at VIT Vellore.
@@ -27,4 +27,4 @@ intuitive feel for how signals behave before studying them formally.
 - Matplotlib
 
 ## Sample Output
-![Triangle Wave](Sample Output.png)
+! [Triangle Wave](sample_output.png)
